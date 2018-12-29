@@ -22,36 +22,6 @@ body {
   background: #222222;
 }
 
-.blue {
-  width: 100px;
-  height: 100px;
-  border: 2px solid black;
-  border-radius: 50%;
-  float: left;
-  margin: 25px 13px;
-  background: #66ff66;
-}
-
-.yellow {
-  width: 100px;
-  height: 100px;
-  border: 2px solid black;
-  border-radius: 50%;
-  float: left;
-  margin: 25px 13px;
-  background: #ffff66;
-}
-
-.red {
-  width: 100px;
-  height: 100px;
-  border: 2px solid black;
-  border-radius: 50%;
-  float: left;
-  margin: 25px 13px;
-  background: #ff3333;
-}
-
 .btn {
   opacity: 0.9;
   border: none;
