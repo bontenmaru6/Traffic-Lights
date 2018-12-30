@@ -22,11 +22,13 @@
           yellow.style.backgroundColor = "#222222";
           red.style.backgroundColor = "#222222";
           break;
+          
         case 2:
           blue.style.backgroundColor = "#222222";
           yellow.style.backgroundColor = "#ffff66";
           red.style.backgroundColor = "#222222";
           break;
+
         case 3:
           blue.style.backgroundColor = "#222222";
           yellow.style.backgroundColor = "#222222";
@@ -34,10 +36,10 @@
           break;
 
         case 4:
-        blue.style.backgroundColor = "#222222";
-        yellow.style.backgroundColor = "#222222";
-        red.style.backgroundColor = "#222222";
-        break;
+          blue.style.backgroundColor = "#222222";
+          yellow.style.backgroundColor = "#222222";
+          red.style.backgroundColor = "#222222";
+          break;
         }
 
         if (count > 3) {
