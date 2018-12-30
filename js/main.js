@@ -9,6 +9,7 @@
   let colors = [blue, yellow, red];
   let n = 0;
 
+//クリックしたら自動で色が変化
   auto.addEventListener("click", function() {
     let count = 0;
     let countUp = function() {
@@ -36,6 +37,7 @@
     countUp();
   });
 
+//クリックしたら色が一つ変化
   change.addEventListener("click", function() {
 
     switch(colors[n++]) {
