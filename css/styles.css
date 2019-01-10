@@ -39,7 +39,7 @@ body {
   color: white;
   box-shadow: 0 4px 0 #000022;
   cursor: pointer;
-  user-select: none;
+  outline :none;
 }
 
 .auto {
@@ -61,4 +61,8 @@ body {
 .btn:active {
   margin-top: 24px;
   box-shadow: none;
+}
+
+.disabled {
+  pointer-events: none;
 }
