@@ -21,8 +21,10 @@
           blue.style.backgroundColor = "#66ff66";
           yellow.style.backgroundColor = "#222222";
           red.style.backgroundColor = "#222222";
+          auto.disabled = true;
+          change.disabled = true;
           break;
-          
+
         case 2:
           blue.style.backgroundColor = "#222222";
           yellow.style.backgroundColor = "#ffff66";
@@ -39,6 +41,8 @@
           blue.style.backgroundColor = "#222222";
           yellow.style.backgroundColor = "#222222";
           red.style.backgroundColor = "#222222";
+          auto.disabled = false;
+          change.disabled = false;
           break;
         }
 
